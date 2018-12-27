@@ -131,3 +131,23 @@
   date: July 22-26, 2019
   place: Tel Aviv, Israel
   sub: ML
+
+- title: ISSTA
+  year: 2019
+  id: issta2019
+  link: https://conf.researchr.org/home/issta-2019/
+  deadline: '2019-01-29 2:59:59'
+  timezone: 
+  date: July 15-19, 2019
+  place: Beijing, China
+  sub:
+
+- title: FSE
+  year: 2019
+  id: fse2019
+  link: https://esec-fse19.ut.ee/
+  deadline: '2019-02-21 2:59:59'
+  timezone: 
+  date: August 26-30, 2019
+  place: Tallinn, Estonia
+  sub:
