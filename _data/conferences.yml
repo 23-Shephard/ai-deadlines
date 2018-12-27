@@ -43,6 +43,16 @@
   place: Beijing, China
   sub: SE
 
+- title: CSSE
+  year: 2019
+  id: csse2019
+  link: http://www.csse2019.net/
+  deadline: '2019-01-29 23:59:59'
+  timezone: Etc/GMT
+  date: May 24-26, 2019
+  place: Xi'an, China
+  sub: SE
+
 - title: GECCO
   year: 2019
   id: gecco19
