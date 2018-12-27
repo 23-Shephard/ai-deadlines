@@ -12,6 +12,16 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
 
+- title: ISSTA
+  year: 2019
+  id: issta2019
+  link: https://conf.researchr.org/home/issta-2019/
+  deadline: '2019-01-27 23:59:59'
+  timezone: Etc/GMT
+  date: July 15-19, 2019
+  place: Beijing, China
+  sub: SE
+
 - title: GECCO
   year: 2019
   id: gecco19
@@ -51,6 +61,16 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
   sub: DM
+
+- title: FSE
+  year: 2019
+  id: fse2019
+  link: https://esec-fse19.ut.ee/
+  deadline: '2019-02-20 23:59:59'
+  timezone: Etc/GMT
+  date: August 26-30, 2019
+  place: Tallinn, Estonia
+  sub: SE
 
 - title: IJCAI
   year: 2019
@@ -131,23 +151,3 @@
   date: July 22-26, 2019
   place: Tel Aviv, Israel
   sub: ML
-
-- title: ISSTA
-  year: 2019
-  id: issta2019
-  link: https://conf.researchr.org/home/issta-2019/
-  deadline: '2019-01-27 23:59:59'
-  timezone: Etc/GMT
-  date: July 15-19, 2019
-  place: Beijing, China
-  sub: SE
-
-- title: FSE
-  year: 2019
-  id: fse2019
-  link: https://esec-fse19.ut.ee/
-  deadline: '2019-02-21 2:59:59'
-  timezone: Etc/GMT
-  date: August 26-30, 2019
-  place: Tallinn, Estonia
-  sub: SE
