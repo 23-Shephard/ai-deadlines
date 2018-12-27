@@ -83,6 +83,17 @@
   place: Anchorage, Alaska, USA
   sub: DM
 
+- title: ICTCIT
+  year: 2019
+  id: ictcit2019
+  link: http://www.meacse.org/ictcit/
+  deadline: '2019-02-14 23:59:59'
+  timezone: Etc/GMT
+  date: April 19-20, 2019
+  place: Tunis, Tunisia
+  sub: SE
+  note: badML
+
 - title: MSET
   year: 2019
   id: mset2019
