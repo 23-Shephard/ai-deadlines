@@ -62,6 +62,17 @@
   place: Anchorage, Alaska, USA
   sub: DM
 
+- title: MSET
+  year: 2019
+  id: mset2019
+  link: http://www.msetconf.org/
+  deadline: '2019-03-18 23:59:59'
+  timezone: Etc/GMT
+  date: April 5-7, 2019
+  place: Barcelona, Spain
+  sub: SE
+  note: badML
+
 - title: FSE
   year: 2019
   id: fse2019
