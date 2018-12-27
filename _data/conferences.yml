@@ -92,7 +92,7 @@
   date: April 19-20, 2019
   place: Tunis, Tunisia
   sub: SE
-  note: badML
+  note: 'badML'
 
 - title: MSET
   year: 2019
@@ -103,7 +103,7 @@
   date: April 5-7, 2019
   place: Barcelona, Spain
   sub: SE
-  note: badML
+  note: 'badML'
 
 - title: FSE
   year: 2019
@@ -154,7 +154,7 @@
   date: April 3-4, 2019
   place: Singapore
   sub: SE
-  note: badML
+  note: 'badML'
 
 - title: ICCV
   year: 2019
