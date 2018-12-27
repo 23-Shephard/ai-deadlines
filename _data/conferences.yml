@@ -102,6 +102,17 @@
   place: Florence, Italy
   sub: NLP
 
+- title: ETSM-APRIL
+  year: 2019
+  id: etsmapril2019
+  link: http://aniceas.com/conferences/etsm-april-2019/
+  deadline: '2019-03-14 23:59:00'
+  timezone: Etc/GMT
+  date: April 3-4, 2019
+  place: Singapore
+  sub: SE
+  note: badML
+
 - title: ICCV
   year: 2019
   id: iccv19
