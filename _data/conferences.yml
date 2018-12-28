@@ -53,6 +53,16 @@
   place: Xi'an, China
   sub: SE
 
+- title: ICMLT
+  year: 2019
+  id: icmlt2019
+  link: http://www.icmlt.org/
+  deadline: '2019-01-29 23:59:59'
+  timezone: Etc/GMT
+  date: June 21-23, 2019
+  place: Nanchang, China
+  sub: ML
+
 - title: GECCO
   year: 2019
   id: gecco19
