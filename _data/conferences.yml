@@ -73,6 +73,16 @@
   place: Prague, Czech Republic
   sub: ML-A
 
+- title: BigDML
+  year: 2019
+  id: bigdml2019
+  link: http://bigdml.nits.ac.in/
+  deadline: '2019-01-30 23:59:59'
+  timezone: Etc/GMT
+  date: December 16-19, 2019
+  place: Silchar, Assam, India
+  sub: ML-?
+
 - title: BDE
   year: 2019
   id: bde2019
@@ -284,6 +294,16 @@
   timezone: Etc/GMT
   date: August 28-30, 2019
   place: Oxford, United Kingdom
+  sub: DM
+
+- title: ICCBDT
+  year: 2019
+  id: iccbdt2019
+  link: http://www.iccbdt.org/
+  deadline: '2019-04-09 23:59:59'
+  timezone: Etc/GMT
+  date: August 28-30, 2019
+  place: Jinan, China
   sub: DM
 
 - title: EMNLP-IJCNLP
