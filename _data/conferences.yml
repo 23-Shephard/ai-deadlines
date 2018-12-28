@@ -276,6 +276,16 @@
   place: Graz, Austria
   sub: SP
 
+- title: ICCBDC
+  year: 2019
+  id: iccbdc2019
+  link: http://www.iccbdc.org/
+  deadline: '2019-04-09 23:59:59'
+  timezone: Etc/GMT
+  date: August 28-30, 2019
+  place: Oxford, United Kingdom
+  sub: DM
+
 - title: EMNLP-IJCNLP
   year: 2019
   id: emnlp-ijcnlp19
