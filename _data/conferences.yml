@@ -175,6 +175,16 @@
   place: Macau, China
   sub: RO
 
+- title: UAI
+  year: 2019
+  id: uai19
+  link: http://auai.org/uai2019/
+  deadline: '2019-03-04 11:59'
+  timezone: Etc/GMT+11
+  date: July 22-26, 2019
+  place: Tel Aviv, Israel
+  sub: ML-A
+
 - title: ACL
   year: 2019
   id: acl19
@@ -235,13 +245,3 @@
   date: November 3-7, 2019
   place: Hong Kong
   sub: NLP
-
-- title: UAI
-  year: 2019
-  id: uai19
-  link: http://auai.org/uai2019/
-  deadline: TBA
-  timezone: America/New_York
-  date: July 22-26, 2019
-  place: Tel Aviv, Israel
-  sub: ML-A
