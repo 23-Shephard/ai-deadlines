@@ -124,6 +124,16 @@
   sub: SE
   note: 'badML'
 
+- title: IWPR 2019
+  year: 2019
+  id: iwpr2019
+  link: http://www.icopr.org/
+  deadline: '2019-02-14 23:59:59'
+  timezone: Etc/GMT
+  date: June 28-30, 2019
+  place: Nanjing, China
+  sub: ML
+
 - title: MSET
   year: 2019
   id: mset2019
