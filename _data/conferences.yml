@@ -134,16 +134,15 @@
   place: Nanjing, China
   sub: ML-?
 
-- title: MSET
+- title: ICDLT
   year: 2019
-  id: mset2019
-  link: http://www.msetconf.org/
-  deadline: '2019-03-18 23:59:59'
+  id: icdlt2019
+  link: http://www.icdlt.org/
+  deadline: '2019-02-19 23:59:59'
   timezone: Etc/GMT
-  date: April 5-7, 2019
-  place: Barcelona, Spain
-  sub: SE
-  note: 'badML'
+  date: July 5-7, 2019
+  place: Xiamen, China
+  sub: ML-?
 
 - title: FSE
   year: 2019
@@ -203,6 +202,17 @@
   timezone: Etc/GMT
   date: April 3-4, 2019
   place: Singapore
+  sub: SE
+  note: 'badML'
+
+- title: MSET
+  year: 2019
+  id: mset2019
+  link: http://www.msetconf.org/
+  deadline: '2019-03-18 23:59:59'
+  timezone: Etc/GMT
+  date: April 5-7, 2019
+  place: Barcelona, Spain
   sub: SE
   note: 'badML'
 
