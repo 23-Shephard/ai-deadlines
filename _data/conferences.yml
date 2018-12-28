@@ -134,6 +134,16 @@
   place: Nanjing, China
   sub: ML-?
 
+- title: ICDDM
+  year: 2019
+  id: icddm2019
+  link: http://www.icddm.org/
+  deadline: '2019-02-19 23:59:59'
+  timezone: Etc/GMT
+  date: July 5-7, 2019
+  place: Xiamen, China
+  sub: DM
+
 - title: ICDLT
   year: 2019
   id: icdlt2019
