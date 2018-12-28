@@ -63,6 +63,16 @@
   place: Prague, Czech Republic
   sub: ML
 
+- title: BDE
+  year: 2019
+  id: bde2019
+  link: http://www.bde.net/index.html
+  deadline: '2019-01-30 23:59:59'
+  timezone: Etc/GMT
+  date: June 11-13, 2019
+  place: Hong Kong
+  sub: DM
+
 - title: COLT
   year: 2019
   id: colt19
