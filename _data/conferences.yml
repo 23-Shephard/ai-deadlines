@@ -19,7 +19,7 @@
   timezone: America/Los_Angeles
   date: June 10-15, 2019
   place: Long Beach, USA
-  sub: ML
+  sub: ML-A
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
 
 - title: ICHPCCC
@@ -71,7 +71,7 @@
   timezone: Etc/GMT+10
   date: July 13 - 17, 2019
   place: Prague, Czech Republic
-  sub: ML
+  sub: ML-A
 
 - title: BDE
   year: 2019
@@ -91,7 +91,7 @@
   timezone: America/New_York
   date: June 25-28, 2019
   place: Phoenix, AZ
-  sub: ML
+  sub: ML-A
 
 - title: RSS
   year: 2019
@@ -163,7 +163,7 @@
   timezone: Etc/GMT
   date: August 10-16, 2019
   place: Macau, China
-  sub: ML
+  sub: ML-A
 
 - title: IROS
   year: 2019
@@ -244,4 +244,4 @@
   timezone: America/New_York
   date: July 22-26, 2019
   place: Tel Aviv, Israel
-  sub: ML
+  sub: ML-A

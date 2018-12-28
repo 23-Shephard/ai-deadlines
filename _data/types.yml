@@ -13,3 +13,11 @@
   sub: DM
 - name: Software Engineering
   sub: SE
+- name: Machine Learning A
+  sub: ML-A
+- name: Machine Learning B
+  sub: ML-B
+- name: Machine Learning C
+  sub: ML-C
+- name: Machine Learning ?
+  sub: ML-?
