@@ -1,6 +1,4 @@
 ---
-- name: Machine Learning
-  sub: ML
 - name: Computer Vision
   sub: CV
 - name: Natural Language Processing
