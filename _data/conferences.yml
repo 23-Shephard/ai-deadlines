@@ -266,6 +266,16 @@
   place: Seoul, Korea
   sub: CV
 
+- title: ICSME
+  year: 2019
+  id: icsme19
+  link: https://icsme2019.github.io/
+  deadline: '2019-03-28 23:59:00'
+  timezone: Etc/GMT
+  date: September 30 - October 4, 2019
+  place: Cleveland, United States
+  sub: SE
+
 - title: MICCAI
   year: 2019
   id: miccai2019
